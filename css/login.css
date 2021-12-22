@@ -1,0 +1,111 @@
+
+body{
+    background-image: linear-gradient(40deg, #05D7CA,rgb(73, 134, 158),#05D7CA);    
+}
+
+.form-wrap{
+ width: 450px;   
+ margin: auto;
+}
+
+section{
+padding-top: 6rem;   
+padding-bottom: 8rem; 
+}
+
+.btn-wrap{
+text-align: center;  
+}
+
+
+
+.form-wrap{
+    background-color: white;
+   
+    padding: 4rem;
+    border-radius: 10px;
+}
+
+
+
+.form-label {
+    font-family: 'Lato', sans-serif;   
+}
+
+.form-wrap h5{
+ text-align: center;
+ font-family: 'Lato', sans-serif;     
+ padding-bottom: 1rem;
+}
+
+
+
+
+footer{
+    text-align: center;    
+    background-color: rgb(223, 221, 221);
+    
+    
+    height: 70px;
+    }
+    
+    footer p {
+    
+     padding-top: 2rem;   
+    }
+    
+
+.btn-wrap{
+margin-top: 1rem;    
+}
+
+
+
+/* --------------------------------------Mobile Friendly--------------------------------- */
+
+@media (max-width: 575.98px) { 
+
+
+    
+
+   
+    
+ 
+    
+}
+    
+    /* // Small devices (landscape phones, less than 768px) */
+    @media (max-width: 767.98px) { 
+ 
+        .form-wrap{
+            width: fit-content;   
+            margin: auto;
+           }
+
+         section{
+          padding-left: 2rem;   
+          padding-right: 1rem;
+         }  
+    
+    }
+    
+    /* // Medium devices (tablets, less than 992px) */
+    @media (max-width: 991.98px) {
+    
+  
+}
+    
+    /* // Large devices (desktops, less than 1200px) */
+    @media (max-width: 1199.98px) {
+     
+        
+    
+    }
+    
+    /* // X-Large devices (large desktops, less than 1400px) */
+    @media (max-width: 1399.98px) { 
+    
+    
+    
+    
+    }

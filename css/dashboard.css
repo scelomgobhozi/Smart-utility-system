@@ -1,0 +1,169 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+section{
+padding-top: 4rem;
+padding-left: 9rem;
+padding-right: 6rem;
+  
+}
+
+.row{
+margin-top: 2rem;    
+}
+
+
+.intro{
+font-family: 'Roboto Mono', monospace;
+font-weight: bold;   
+
+         
+}
+
+.info-wrapper{
+      
+margin-top: 6rem;
+
+
+
+}
+
+
+
+
+.water-usage, .electricity-usage{
+ background-color: rgb(236, 236, 236);         
+
+width: 250px;
+border-radius: 10px;
+font-family: 'Noto Sans JP', sans-serif;
+
+}
+
+.water-usage{
+    margin: auto;
+}
+
+
+.electricity-usage{
+ margin: auto;   
+}
+
+.logout-wrap{
+    margin-top: 5rem;
+text-align: center;
+}
+
+
+
+.card-title{
+background-color: white;    
+border: 1px solid black;
+margin: 0;
+padding: 0;
+text-align: center;
+font-family: 'Roboto', monospace;
+font-size: 18px;
+  
+}
+
+.electricity-status{
+background-color: #e20000  ;  
+height: 150px;  
+}
+
+.usage-state{
+ background-color: #E3EAE6;   
+ height: 150px;  
+}
+
+
+/* ----------------------------For small color code-------------------------- */
+
+.color-low{
+width: 18px;
+height:18px;
+background-color:#3fb37b ;    
+display: inline-block;
+}
+
+
+
+.color-avg{
+width: 20px;
+height:20px;
+background-color:#fcff2e ;    
+display: inline-block;
+}
+
+.color-H{
+width: 20px;
+height:20px;
+background-color:#e20000 ;    
+display: inline-block;
+}
+
+.color1 p{
+ padding-top: 0.5px;  
+}
+
+.usage-state2{
+    background-color: #E3EAE6;   
+    height: 160px;  
+   }
+
+   .col-wrap{
+    margin-top: 2rem;    
+   }
+
+   .card-watt{
+    text-align: center;   
+    margin-top: 2rem;
+     font-size: 35px;
+   }
+
+.tips{
+    
+background-color: #c6ffe46c;  
+height: 150px; 
+}
+
+
+td p{
+   padding-left: 10px;
+   margin-top: 0.9px; 
+   font-family: 'Montserrat', sans-serif;
+   font-weight: bold;
+   font-size: 13px;
+   
+}
+
+
+
+.status-tips{
+    background-color:#ccd3d06c;  
+    height: 150px;  
+
+
+}
+
+
+footer{
+    text-align: center;    
+    background-color: rgb(223, 221, 221);
+    
+    
+    height: 70px;
+    }
+    
+    footer p {
+    
+     padding-top: 2rem;   
+    }
+    
+    .p-s{
+    font-weight: normal; 
+       font-family: 'Roboto';
+    } 
